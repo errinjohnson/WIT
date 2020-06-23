@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Sporttrac\Desktop\WIT\|C:\Users\Sporttrac\Desktop\GearHostSite\Application Files\|http://localhost/|local\Users\Sporttrac\Desktop\GearHostSite\|C:\Users\Sporttrac\Desktop\GearHostSite\</PublishUrlHistory>
+    <InstallUrlHistory>http://gentlecity.gear.host/|http://gentlycity.gear.host/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartWorkingDirectory>C:\Users\Sporttrac\Desktop\WIT_Earnings\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

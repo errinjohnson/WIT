@@ -1,0 +1,4 @@
+Engineering and science		:,19007,14101,74.20%,4906,25.80%
+Mathematical				:,11233,8217,73.20%,3016,26.80%
+Architecture and engineering		:,5456,4750,87.10%,706,12.90%
+Life physical and social science	:,2318,1134,48.90%,1184,51.10%

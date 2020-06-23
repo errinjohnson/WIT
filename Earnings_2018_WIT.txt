@@ -1,0 +1,17 @@
+STEM,aaTotals Computer_math,1184,$1345,3571,$1604,83.9%,4755,$1539
+STEM,Computer and info. research scientist,4,$0.00,16,$0.00,0.0%,20,$0.00
+STEM,Computer systems analysts,222,$1246,358,$1647,75.7%,580,$1521
+STEM,Information security analysts,18,$75,1625,$0.00,93%,1635,$0.00
+STEM,Computer programmers,91,$1445,338,$1662,86.9%,428,$1591
+STEM,Software dev apps and systems,327,$1644,1283,$1894,86.8%,1611,$1864
+STEM,Web developers,49,$0.00,115,$1418,0.0%,164,$1333
+STEM,Computer support specialists,140,$1015,376,$1114,91.1%,516,$1085
+STEM,Database administrators,40,$0.00,67,$1573,0.0%,108,$1493
+STEM,Network and computer systems admin,37,$0.00,155,$1478,0.0%,192,$1430
+STEM,Computer network architects,10,$0.00,102,$1771,0.0%,112,$1765
+STEM,Computer occup. all other,131,$1208,548,$1238,97.6%,678,$1226
+STEM,Actuaries,11,$0.00,24,$0.00,0.0%,35,$0.00
+STEM,Mathematicians,1,$0.00,2,$0.00,0.0%,3,$0.00
+STEM,Operations research analyst,58,$1299,66,$1566,83.0%,125,$1418
+STEM,Statisticians,43,$0.00,41,$0.00,0.0%,85,$1437
+STEM,Misc. mathematical science,2,$0.00,3,$0.00,0.0%,5,$0.00
